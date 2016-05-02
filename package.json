@@ -1,0 +1,19 @@
+{
+  "name": "parsweb",
+  "version": "1.0.0",
+  "description": "Parseo Web desde un texto de log de ISO's",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alerolon15/parsweb.git"
+  },
+  "author": "Alejandro Rolon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alerolon15/parsweb/issues"
+  },
+  "homepage": "https://github.com/alerolon15/parsweb#readme"
+}
