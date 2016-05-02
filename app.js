@@ -2,11 +2,16 @@
 var fs = require('fs');
 var lib = require('readline');
 
+
 //armar interface para la pregunta del codigo
 var interface1= lib.createInterface({
 	input: process.stdin,
 	output: process.stdout
 });
+//inicializo el archivo resultados.txt
+fs.writeFile('resultados.txt',"", (err) => {
+  	if (err) throw err;
+	});
 //ingresar el codigo que se busca 
 interface1.question("Ingresa el codigo que estas buscando : ", function(respuesta){
 //leer el archivo con los mensajes ISO8583
@@ -24,13 +29,23 @@ for (var i = 0; i < array.length; i++) {
 	    Hora = array[i].slice(11,24),								//tomar hora
 	    codRes = array[i].slice(189, 191);									//codigo de respuesta del core
 	if(pos<48){codTrans = "Ec"; resp = "0810";}						//Detectar Echo y cambia el codigo a "Ec"
+
 	//mostrar datos en pantalla
     if(codTrans == respuesta){
-       	console.log("Linea: " + (i+1) + ", Codigo: " + codTrans + ", Fecha: " + fecha + ", tipo: " + resp + ", Hora: " + Hora);
-    if(resp == "0210"){console.log("Respuesta del Core: " + codRes)}
+        var data = "Linea: " + (i+1) + ", Codigo: " + codTrans + ", Fecha: " + fecha + ", tipo: " + resp + ", Hora: " + Hora;
+      	console.log(data);
+    if(resp == "0210"){
+    	var respondio = "Respuesta del Core: " + codRes;
+    	data = data + " " + respondio;
+    	console.log(respondio);
+    }
+    	fs.appendFile('resultados.txt', data+"\n", (err) => {
+  	if (err) throw err;
+	});
        	count++;													//en cada acierto, agregarlo al contador
     };
 };
 	console.log("Se encontraron " + count + " resultados!")
+  	console.log("Todo los resultados fueron guardados en el archivo resultados.txt");
 	interface1.close();
 });

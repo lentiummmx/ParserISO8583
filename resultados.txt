@@ -1,0 +1,616 @@
+Linea: 5, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:01:778 
+Linea: 6, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:02:683 
+Linea: 15, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:05:506 
+Linea: 8, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:03:400 
+Linea: 7, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:02:683 
+Linea: 16, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:06:317 
+Linea: 21, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:07:690 
+Linea: 22, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:08:314 
+Linea: 23, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:08:314 
+Linea: 29, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:10:873 
+Linea: 24, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:09:313 
+Linea: 30, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:11:512 
+Linea: 31, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:11:512 
+Linea: 32, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:12:230 
+Linea: 33, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:12:245 
+Linea: 34, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:13:041 
+Linea: 35, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:13:041 
+Linea: 36, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:13:556 
+Linea: 39, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:14:133 
+Linea: 40, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:14:819 
+Linea: 41, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:14:819 
+Linea: 42, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:15:303 
+Linea: 43, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:15:537 
+Linea: 44, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:16:301 
+Linea: 45, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:16:301 
+Linea: 46, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:16:910 
+Linea: 48, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:16:910 
+Linea: 49, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:17:534 
+Linea: 50, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:17:549 
+Linea: 51, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:18:002 
+Linea: 52, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:18:017 
+Linea: 53, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:18:751 
+Linea: 54, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:18:751 
+Linea: 55, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:19:328 
+Linea: 58, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:19:936 
+Linea: 59, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:20:732 
+Linea: 60, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:20:732 
+Linea: 61, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:21:512 
+Linea: 64, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:22:058 
+Linea: 65, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:22:963 
+Linea: 66, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:22:963 
+Linea: 67, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:23:431 
+Linea: 68, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:23:431 
+Linea: 69, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:24:055 
+Linea: 70, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:24:055 
+Linea: 71, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:24:663 
+Linea: 74, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:25:131 
+Linea: 75, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:25:646 
+Linea: 82, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:28:064 
+Linea: 83, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:28:563 
+Linea: 84, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:28:563 
+Linea: 85, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:29:062 
+Linea: 86, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:29:062 
+Linea: 87, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:29:468 
+Linea: 88, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:29:468 
+Linea: 89, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:30:014 
+Linea: 90, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:30:029 
+Linea: 91, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:30:638 
+Linea: 92, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:30:638 
+Linea: 93, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:31:137 
+Linea: 96, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:31:839 
+Linea: 97, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:32:494 
+Linea: 98, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:32:494 
+Linea: 99, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:33:290 
+Linea: 100, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:33:290 
+Linea: 101, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:34:023 
+Linea: 102, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:34:023 
+Linea: 103, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:34:585 
+Linea: 104, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:34:585 
+Linea: 105, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:35:037 
+Linea: 106, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:35:037 
+Linea: 107, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:35:630 
+Linea: 108, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:35:630 
+Linea: 109, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:36:082 
+Linea: 110, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:36:082 
+Linea: 111, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:36:566 
+Linea: 112, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:36:566 
+Linea: 113, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:37:096 
+Linea: 114, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:37:096 
+Linea: 115, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:37:627 
+Linea: 116, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:37:642 
+Linea: 117, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:38:032 
+Linea: 118, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:38:032 
+Linea: 119, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:38:563 
+Linea: 120, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:38:563 
+Linea: 121, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:39:280 
+Linea: 122, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:39:280 
+Linea: 123, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:39:826 
+Linea: 124, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:39:826 
+Linea: 125, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:40:481 
+Linea: 126, Codigo: 01, Fecha: 2016/03/11, tipo: 0220, Hora: 07:05:40:481 
+Linea: 127, Codigo: 01, Fecha: 2016/03/11, tipo: 0230, Hora: 07:05:40:934 
+Linea: 133, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 07:08:03:503 
+Linea: 134, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 07:08:04:111  Respuesta del Core: 00
+Linea: 139, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 07:13:33:303 
+Linea: 140, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 07:13:34:161  Respuesta del Core: 00
+Linea: 145, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 07:17:25:665 
+Linea: 146, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 07:17:26:414  Respuesta del Core: 00
+Linea: 149, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 07:21:47:496 
+Linea: 150, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 07:21:48:182  Respuesta del Core: 00
+Linea: 159, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 07:36:10:006 
+Linea: 160, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 07:36:11:176  Respuesta del Core: 00
+Linea: 161, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 07:36:54:123 
+Linea: 162, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 07:36:55:808  Respuesta del Core: 00
+Linea: 169, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 07:42:28:463 
+Linea: 170, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 07:42:29:461  Respuesta del Core: 00
+Linea: 171, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 07:42:49:725 
+Linea: 172, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 07:42:50:490  Respuesta del Core: 00
+Linea: 192, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 07:57:57:631  Respuesta del Core: 00
+Linea: 191, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 07:57:56:742 
+Linea: 203, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:08:06:344 
+Linea: 204, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:08:07:171  Respuesta del Core: 00
+Linea: 205, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:08:45:750 
+Linea: 206, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:08:46:437  Respuesta del Core: 00
+Linea: 207, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:08:51:210 
+Linea: 208, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:08:52:068  Respuesta del Core: 00
+Linea: 209, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:10:19:444 
+Linea: 210, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:10:20:161  Respuesta del Core: 00
+Linea: 223, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:19:18:986 
+Linea: 224, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:19:19:844  Respuesta del Core: 00
+Linea: 231, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:22:47:559 
+Linea: 232, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:22:48:620  Respuesta del Core: 00
+Linea: 233, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:23:08:369 
+Linea: 234, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:23:09:056  Respuesta del Core: 00
+Linea: 235, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:23:21:645 
+Linea: 236, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:23:22:269  Respuesta del Core: 00
+Linea: 239, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:24:00:442 
+Linea: 240, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:24:01:129  Respuesta del Core: 00
+Linea: 253, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:31:07:430 
+Linea: 254, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:31:08:257  Respuesta del Core: 00
+Linea: 263, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:39:39:969 
+Linea: 264, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:39:40:859  Respuesta del Core: 00
+Linea: 265, Codigo: 01, Fecha: 2016/03/11, tipo: 0420, Hora: 08:39:42:263 
+Linea: 266, Codigo: 01, Fecha: 2016/03/11, tipo: 0430, Hora: 08:39:43:011 
+Linea: 267, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:40:10:031 
+Linea: 268, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:40:10:764  Respuesta del Core: 00
+Linea: 269, Codigo: 01, Fecha: 2016/03/11, tipo: 0420, Hora: 08:40:11:996 
+Linea: 270, Codigo: 01, Fecha: 2016/03/11, tipo: 0430, Hora: 08:40:12:714 
+Linea: 271, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:40:32:604 
+Linea: 272, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:40:33:368  Respuesta del Core: 00
+Linea: 273, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:40:37:471 
+Linea: 274, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:40:38:594  Respuesta del Core: 00
+Linea: 275, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:41:25:160 
+Linea: 276, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:41:25:878  Respuesta del Core: 00
+Linea: 280, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:41:55:050 
+Linea: 281, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:41:55:814  Respuesta del Core: 00
+Linea: 286, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:43:26:310 
+Linea: 287, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:43:27:184  Respuesta del Core: 00
+Linea: 298, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:48:18:374 
+Linea: 299, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:48:19:263  Respuesta del Core: 00
+Linea: 308, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:54:12:822 
+Linea: 309, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:54:13:524  Respuesta del Core: 00
+Linea: 310, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 08:54:35:692 
+Linea: 311, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 08:54:36:363  Respuesta del Core: 00
+Linea: 318, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:01:26:986 
+Linea: 319, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:01:27:907  Respuesta del Core: 00
+Linea: 329, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:08:04:772 
+Linea: 330, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:08:05:536  Respuesta del Core: 00
+Linea: 335, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:14:08:393 
+Linea: 336, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:14:09:235  Respuesta del Core: 00
+Linea: 338, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:14:44:179 
+Linea: 339, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:14:44:959  Respuesta del Core: 00
+Linea: 348, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:18:23:172 
+Linea: 349, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:18:23:859  Respuesta del Core: 00
+Linea: 350, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:18:34:108 
+Linea: 351, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:18:34:638  Respuesta del Core: 00
+Linea: 352, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:19:45:135 
+Linea: 353, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:19:46:008  Respuesta del Core: 00
+Linea: 354, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:20:19:455 
+Linea: 355, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:20:20:188  Respuesta del Core: 00
+Linea: 356, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:20:58:252 
+Linea: 357, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:20:58:798  Respuesta del Core: 00
+Linea: 360, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:23:29:463 
+Linea: 361, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:23:30:274  Respuesta del Core: 00
+Linea: 374, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:29:39:246 
+Linea: 375, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:29:40:011  Respuesta del Core: 00
+Linea: 380, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:35:36:783 
+Linea: 381, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:35:37:672  Respuesta del Core: 00
+Linea: 382, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:36:15:175 
+Linea: 383, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:36:15:830  Respuesta del Core: 00
+Linea: 384, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:36:22:772 
+Linea: 385, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:36:23:505  Respuesta del Core: 00
+Linea: 390, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:37:35:484 
+Linea: 391, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:37:36:311  Respuesta del Core: 00
+Linea: 392, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:38:10:834 
+Linea: 393, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:38:11:473  Respuesta del Core: 00
+Linea: 394, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:38:50:224 
+Linea: 395, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:38:50:863  Respuesta del Core: 00
+Linea: 402, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:42:43:335 
+Linea: 403, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:42:44:286  Respuesta del Core: 00
+Linea: 406, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:48:09:890 
+Linea: 407, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:48:10:701  Respuesta del Core: 00
+Linea: 408, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:48:44:678 
+Linea: 409, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:48:45:302  Respuesta del Core: 00
+Linea: 422, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:52:14:935 
+Linea: 423, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:52:15:715  Respuesta del Core: 00
+Linea: 424, Codigo: 01, Fecha: 2016/03/11, tipo: 0420, Hora: 09:52:49:474 
+Linea: 425, Codigo: 01, Fecha: 2016/03/11, tipo: 0430, Hora: 09:52:50:285 
+Linea: 430, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:56:26:798 
+Linea: 431, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:56:27:547  Respuesta del Core: 00
+Linea: 442, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 09:58:07:995 
+Linea: 443, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 09:58:08:853  Respuesta del Core: 00
+Linea: 446, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:00:42:545 
+Linea: 447, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:00:43:450  Respuesta del Core: 00
+Linea: 474, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:13:45:853 
+Linea: 475, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:13:46:820  Respuesta del Core: 00
+Linea: 476, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:15:05:039 
+Linea: 477, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:15:05:398  Respuesta del Core: 51
+Linea: 480, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:15:16:661 
+Linea: 481, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:15:16:801  Respuesta del Core: 51
+Linea: 482, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:15:28:470 
+Linea: 483, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:15:28:642  Respuesta del Core: 51
+Linea: 514, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:26:26:074 
+Linea: 515, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:26:26:963  Respuesta del Core: 00
+Linea: 518, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:27:03:670 
+Linea: 519, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:27:04:419  Respuesta del Core: 00
+Linea: 534, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:31:27:810 
+Linea: 535, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:31:28:605  Respuesta del Core: 00
+Linea: 557, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:41:00:970 
+Linea: 558, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:41:01:828  Respuesta del Core: 00
+Linea: 565, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:45:34:517 
+Linea: 566, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:45:35:328  Respuesta del Core: 00
+Linea: 567, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:46:00:459 
+Linea: 568, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:46:01:177  Respuesta del Core: 00
+Linea: 569, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:47:28:147 
+Linea: 570, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:47:29:099  Respuesta del Core: 00
+Linea: 571, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:47:53:762 
+Linea: 572, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:47:54:496  Respuesta del Core: 00
+Linea: 575, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:48:45:087 
+Linea: 576, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:48:46:054  Respuesta del Core: 00
+Linea: 577, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:51:03:006 
+Linea: 578, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:51:03:880  Respuesta del Core: 00
+Linea: 579, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:51:09:309 
+Linea: 580, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:51:09:917  Respuesta del Core: 00
+Linea: 581, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:51:24:846 
+Linea: 582, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:51:25:377  Respuesta del Core: 00
+Linea: 595, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 10:54:03:249 
+Linea: 596, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 10:54:03:982  Respuesta del Core: 00
+Linea: 611, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:03:52:415 
+Linea: 612, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:03:53:211  Respuesta del Core: 00
+Linea: 621, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:06:22:378 
+Linea: 622, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:06:23:174  Respuesta del Core: 00
+Linea: 633, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:08:46:445 
+Linea: 634, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:08:47:240  Respuesta del Core: 00
+Linea: 635, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:09:27:941 
+Linea: 636, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:09:28:721  Respuesta del Core: 00
+Linea: 646, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:16:08:003 
+Linea: 647, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:16:08:799  Respuesta del Core: 00
+Linea: 650, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:16:12:169 
+Linea: 651, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:16:12:715  Respuesta del Core: 00
+Linea: 652, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:16:40:296 
+Linea: 653, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:16:40:998  Respuesta del Core: 00
+Linea: 658, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:20:09:695 
+Linea: 659, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:20:10:896  Respuesta del Core: 00
+Linea: 666, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:21:13:670 
+Linea: 667, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:21:14:513  Respuesta del Core: 00
+Linea: 674, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:22:44:915 
+Linea: 675, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:22:46:054  Respuesta del Core: 00
+Linea: 676, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:24:09:732 
+Linea: 677, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:24:10:372  Respuesta del Core: 00
+Linea: 682, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:24:48:108 
+Linea: 683, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:24:48:826  Respuesta del Core: 00
+Linea: 700, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:32:42:973 
+Linea: 701, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:32:43:784  Respuesta del Core: 00
+Linea: 706, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:33:19:337 
+Linea: 707, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:33:19:961  Respuesta del Core: 00
+Linea: 724, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:35:11:766 
+Linea: 725, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:35:12:312  Respuesta del Core: 00
+Linea: 730, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:35:51:125 
+Linea: 731, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:35:51:780  Respuesta del Core: 00
+Linea: 734, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:36:20:266 
+Linea: 735, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:36:20:890  Respuesta del Core: 00
+Linea: 738, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:36:42:590 
+Linea: 739, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:36:43:385  Respuesta del Core: 00
+Linea: 742, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:37:10:420 
+Linea: 743, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:37:11:122  Respuesta del Core: 00
+Linea: 750, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:40:18:244 
+Linea: 751, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:40:19:149  Respuesta del Core: 00
+Linea: 766, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:44:13:852 
+Linea: 767, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:44:14:632  Respuesta del Core: 00
+Linea: 772, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:44:56:315 
+Linea: 773, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:44:56:861  Respuesta del Core: 00
+Linea: 776, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:46:48:495 
+Linea: 777, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:46:49:836  Respuesta del Core: 00
+Linea: 790, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:51:44:490 
+Linea: 791, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:51:45:363  Respuesta del Core: 00
+Linea: 794, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:52:14:208 
+Linea: 795, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:52:14:956  Respuesta del Core: 00
+Linea: 802, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:53:12:926 
+Linea: 803, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:53:13:519  Respuesta del Core: 00
+Linea: 810, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:55:18:990 
+Linea: 811, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:55:19:676  Respuesta del Core: 00
+Linea: 816, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:56:03:778 
+Linea: 817, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:56:04:339  Respuesta del Core: 00
+Linea: 820, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 11:56:27:880 
+Linea: 821, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 11:56:28:551  Respuesta del Core: 00
+Linea: 826, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:00:32:566 
+Linea: 827, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:00:33:331  Respuesta del Core: 00
+Linea: 828, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:00:59:024 
+Linea: 829, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:00:59:882  Respuesta del Core: 00
+Linea: 830, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:01:08:945 
+Linea: 831, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:01:09:616  Respuesta del Core: 00
+Linea: 832, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:01:40:192 
+Linea: 833, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:01:40:863  Respuesta del Core: 00
+Linea: 834, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:02:23:217 
+Linea: 835, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:02:24:153  Respuesta del Core: 00
+Linea: 836, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:04:30:747 
+Linea: 837, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:04:31:590  Respuesta del Core: 00
+Linea: 840, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:04:52:884 
+Linea: 841, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:04:53:617  Respuesta del Core: 00
+Linea: 842, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:05:04:163 
+Linea: 843, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:05:04:662  Respuesta del Core: 00
+Linea: 876, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:21:07:371 
+Linea: 877, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:21:08:104  Respuesta del Core: 00
+Linea: 890, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:25:02:276 
+Linea: 891, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:25:03:056  Respuesta del Core: 00
+Linea: 898, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:25:22:650 
+Linea: 899, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:25:23:398  Respuesta del Core: 00
+Linea: 908, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:26:16:158 
+Linea: 909, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:26:16:953  Respuesta del Core: 00
+Linea: 912, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:26:27:592 
+Linea: 913, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:26:28:372  Respuesta del Core: 00
+Linea: 922, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:28:35:403 
+Linea: 923, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:28:36:215  Respuesta del Core: 00
+Linea: 933, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:35:42:797 
+Linea: 934, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:35:43:375  Respuesta del Core: 00
+Linea: 935, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:36:45:151 
+Linea: 936, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:36:45:915  Respuesta del Core: 00
+Linea: 949, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:42:00:193 
+Linea: 950, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:42:00:630  Respuesta del Core: 00
+Linea: 955, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:43:06:478 
+Linea: 956, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:43:07:008  Respuesta del Core: 00
+Linea: 961, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:43:46:710 
+Linea: 962, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:43:47:287  Respuesta del Core: 00
+Linea: 978, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:50:09:192 
+Linea: 979, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:50:10:003  Respuesta del Core: 00
+Linea: 992, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:54:42:145 
+Linea: 993, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:54:42:894  Respuesta del Core: 00
+Linea: 994, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:56:13:000 
+Linea: 995, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:56:13:546  Respuesta del Core: 00
+Linea: 1006, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 12:59:40:012 
+Linea: 1007, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 12:59:40:824  Respuesta del Core: 00
+Linea: 1008, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:00:10:978 
+Linea: 1009, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:00:11:743  Respuesta del Core: 00
+Linea: 1016, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:02:15:092 
+Linea: 1017, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:02:15:872  Respuesta del Core: 00
+Linea: 1024, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:05:10:608 
+Linea: 1025, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:05:11:794  Respuesta del Core: 00
+Linea: 1042, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:09:15:575 
+Linea: 1043, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:09:16:277  Respuesta del Core: 00
+Linea: 1052, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:14:22:553 
+Linea: 1053, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:14:23:348  Respuesta del Core: 00
+Linea: 1060, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:16:59:302 
+Linea: 1061, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:17:00:082  Respuesta del Core: 00
+Linea: 1070, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:21:36:655 
+Linea: 1071, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:21:37:466  Respuesta del Core: 00
+Linea: 1076, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:23:00:661 
+Linea: 1077, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:23:01:441  Respuesta del Core: 00
+Linea: 1082, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:23:50:425 
+Linea: 1083, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:23:51:080  Respuesta del Core: 00
+Linea: 1084, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:23:58:490 
+Linea: 1085, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:23:59:223  Respuesta del Core: 00
+Linea: 1086, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:24:22:530 
+Linea: 1087, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:24:22:779  Respuesta del Core: 51
+Linea: 1089, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:24:40:953 
+Linea: 1090, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:24:41:733  Respuesta del Core: 00
+Linea: 1095, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:27:29:559 
+Linea: 1096, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:27:30:214  Respuesta del Core: 00
+Linea: 1105, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:32:08:097 
+Linea: 1106, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:32:08:659  Respuesta del Core: 00
+Linea: 1107, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:32:23:791 
+Linea: 1108, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:32:24:602  Respuesta del Core: 00
+Linea: 1111, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:33:34:256 
+Linea: 1112, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:33:35:020  Respuesta del Core: 00
+Linea: 1117, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:35:47:808 
+Linea: 1118, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:35:48:619  Respuesta del Core: 00
+Linea: 1119, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:36:53:437 
+Linea: 1120, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:36:54:201  Respuesta del Core: 00
+Linea: 1125, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:37:34:309 
+Linea: 1126, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:37:34:918  Respuesta del Core: 00
+Linea: 1133, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:38:57:489 
+Linea: 1134, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:38:58:066  Respuesta del Core: 00
+Linea: 1137, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:39:30:202 
+Linea: 1138, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:39:30:904  Respuesta del Core: 00
+Linea: 1147, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:41:18:856 
+Linea: 1148, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:41:19:464  Respuesta del Core: 00
+Linea: 1153, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:43:14:733 
+Linea: 1154, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:43:15:591  Respuesta del Core: 00
+Linea: 1155, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:43:26:542 
+Linea: 1156, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:43:27:307  Respuesta del Core: 00
+Linea: 1159, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:43:39:007 
+Linea: 1160, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:43:39:849  Respuesta del Core: 00
+Linea: 1165, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:44:30:986 
+Linea: 1166, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:44:31:079  Respuesta del Core: 62
+Linea: 1188, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:51:59:409 
+Linea: 1189, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:52:00:282  Respuesta del Core: 00
+Linea: 1202, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:55:38:168 
+Linea: 1203, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:55:38:854  Respuesta del Core: 00
+Linea: 1204, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:56:07:808 
+Linea: 1205, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:56:08:572  Respuesta del Core: 00
+Linea: 1206, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:56:45:404 
+Linea: 1207, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:56:46:168  Respuesta del Core: 00
+Linea: 1212, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 13:58:31:422 
+Linea: 1213, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 13:58:32:233  Respuesta del Core: 00
+Linea: 1216, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:00:09:640 
+Linea: 1217, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:00:10:529  Respuesta del Core: 00
+Linea: 1226, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:04:23:078 
+Linea: 1227, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:04:23:936  Respuesta del Core: 00
+Linea: 1228, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:04:50:643 
+Linea: 1229, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:04:51:594  Respuesta del Core: 00
+Linea: 1230, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:05:39:377 
+Linea: 1231, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:05:40:033  Respuesta del Core: 00
+Linea: 1234, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:07:35:473 
+Linea: 1235, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:07:35:769  Respuesta del Core: 51
+Linea: 1236, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:09:28:760 
+Linea: 1237, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:09:29:041  Respuesta del Core: 51
+Linea: 1238, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:09:47:496 
+Linea: 1239, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:09:48:198  Respuesta del Core: 00
+Linea: 1240, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:10:50:036 
+Linea: 1241, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:10:50:832  Respuesta del Core: 00
+Linea: 1246, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:11:52:795 
+Linea: 1247, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:11:53:076  Respuesta del Core: 51
+Linea: 1254, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:12:23:028 
+Linea: 1255, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:12:23:746  Respuesta del Core: 00
+Linea: 1256, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:12:36:194 
+Linea: 1257, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:12:36:881  Respuesta del Core: 00
+Linea: 1262, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:13:27:269 
+Linea: 1263, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:13:28:221  Respuesta del Core: 00
+Linea: 1268, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:14:34:911 
+Linea: 1269, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:14:35:535  Respuesta del Core: 00
+Linea: 1272, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:15:02:460 
+Linea: 1273, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:15:03:069  Respuesta del Core: 00
+Linea: 1276, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:18:11:236 
+Linea: 1277, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:18:12:032  Respuesta del Core: 00
+Linea: 1283, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:20:08:470 
+Linea: 1284, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:20:09:219  Respuesta del Core: 00
+Linea: 1289, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:20:53:071 
+Linea: 1290, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:20:53:757  Respuesta del Core: 00
+Linea: 1295, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:21:07:376 
+Linea: 1296, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:21:08:094  Respuesta del Core: 00
+Linea: 1297, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:21:09:467 
+Linea: 1298, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:21:09:701  Respuesta del Core: 51
+Linea: 1299, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:21:25:441 
+Linea: 1300, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:21:26:143  Respuesta del Core: 00
+Linea: 1301, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:21:34:255 
+Linea: 1302, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:21:34:848  Respuesta del Core: 00
+Linea: 1303, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:21:38:997 
+Linea: 1304, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:21:39:762  Respuesta del Core: 00
+Linea: 1309, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:22:58:916 
+Linea: 1310, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:22:59:665  Respuesta del Core: 00
+Linea: 1311, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:23:06:779 
+Linea: 1312, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:23:07:528  Respuesta del Core: 00
+Linea: 1313, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:23:30:725 
+Linea: 1314, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:23:31:474  Respuesta del Core: 00
+Linea: 1320, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:24:55:667 
+Linea: 1321, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:24:56:525  Respuesta del Core: 00
+Linea: 1326, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:29:24:611 
+Linea: 1327, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:29:25:173  Respuesta del Core: 00
+Linea: 1330, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:31:11:472 
+Linea: 1331, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:31:12:236  Respuesta del Core: 00
+Linea: 1344, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:35:19:013 
+Linea: 1345, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:35:19:668  Respuesta del Core: 00
+Linea: 1350, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:37:16:263 
+Linea: 1351, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:37:16:949  Respuesta del Core: 00
+Linea: 1356, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:38:21:408 
+Linea: 1357, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:38:22:188  Respuesta del Core: 00
+Linea: 1358, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:38:35:277 
+Linea: 1359, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:38:35:760  Respuesta del Core: 00
+Linea: 1368, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:39:39:393 
+Linea: 1369, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:39:40:657  Respuesta del Core: 00
+Linea: 1378, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:42:34:066 
+Linea: 1379, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:42:34:862  Respuesta del Core: 00
+Linea: 1380, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:42:49:620 
+Linea: 1381, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:42:49:885  Respuesta del Core: 51
+Linea: 1384, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:43:03:582 
+Linea: 1385, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:43:04:315  Respuesta del Core: 00
+Linea: 1386, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:43:54:048 
+Linea: 1387, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:43:54:812  Respuesta del Core: 00
+Linea: 1388, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:45:34:340 
+Linea: 1389, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:45:35:042  Respuesta del Core: 00
+Linea: 1392, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:46:10:096 
+Linea: 1393, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:46:10:860  Respuesta del Core: 00
+Linea: 1394, Codigo: 01, Fecha: 2016/03/11, tipo: 0420, Hora: 14:46:42:793 
+Linea: 1395, Codigo: 01, Fecha: 2016/03/11, tipo: 0430, Hora: 14:46:43:480 
+Linea: 1396, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:47:10:218 
+Linea: 1397, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:47:10:827  Respuesta del Core: 00
+Linea: 1398, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:47:39:484 
+Linea: 1399, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:47:40:155  Respuesta del Core: 00
+Linea: 1408, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:51:12:331 
+Linea: 1409, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:51:13:001  Respuesta del Core: 00
+Linea: 1420, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:52:09:645 
+Linea: 1421, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:52:10:129  Respuesta del Core: 00
+Linea: 1422, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:52:17:601 
+Linea: 1423, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:52:18:241  Respuesta del Core: 00
+Linea: 1432, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:55:00:419 
+Linea: 1433, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:55:01:136  Respuesta del Core: 00
+Linea: 1434, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:55:15:036 
+Linea: 1435, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:55:15:707  Respuesta del Core: 00
+Linea: 1444, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:56:54:221 
+Linea: 1445, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:56:55:001  Respuesta del Core: 00
+Linea: 1446, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:57:17:402 
+Linea: 1447, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:57:18:167  Respuesta del Core: 00
+Linea: 1448, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 14:58:05:575 
+Linea: 1449, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 14:58:06:371  Respuesta del Core: 00
+Linea: 1458, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:01:13:883 
+Linea: 1459, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:01:14:554  Respuesta del Core: 00
+Linea: 1462, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:01:58:374 
+Linea: 1463, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:01:59:123  Respuesta del Core: 00
+Linea: 1470, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:06:12:000 
+Linea: 1471, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:06:12:905  Respuesta del Core: 00
+Linea: 1472, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:07:05:633 
+Linea: 1473, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:07:06:366  Respuesta del Core: 00
+Linea: 1478, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:07:57:893 
+Linea: 1479, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:07:58:454  Respuesta del Core: 00
+Linea: 1480, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:08:08:064 
+Linea: 1481, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:08:08:750  Respuesta del Core: 00
+Linea: 1499, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:12:34:575 
+Linea: 1500, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:12:35:183  Respuesta del Core: 00
+Linea: 1507, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:14:03:183 
+Linea: 1508, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:14:03:916  Respuesta del Core: 00
+Linea: 1513, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:18:37:634 
+Linea: 1514, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:18:38:477  Respuesta del Core: 00
+Linea: 1515, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:19:06:978 
+Linea: 1516, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:19:07:508  Respuesta del Core: 00
+Linea: 1517, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:20:22:794 
+Linea: 1518, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:20:23:434  Respuesta del Core: 00
+Linea: 1527, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:25:02:518 
+Linea: 1528, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:25:03:126  Respuesta del Core: 00
+Linea: 1543, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:28:05:366 
+Linea: 1544, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:28:05:850  Respuesta del Core: 00
+Linea: 1549, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:28:37:798 
+Linea: 1550, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:28:38:298  Respuesta del Core: 00
+Linea: 1555, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:29:20:262 
+Linea: 1556, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:29:20:808  Respuesta del Core: 00
+Linea: 1557, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:29:21:260 
+Linea: 1558, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:29:21:744  Respuesta del Core: 00
+Linea: 1561, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:29:36:501 
+Linea: 1562, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:29:37:141  Respuesta del Core: 00
+Linea: 1567, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:30:59:759 
+Linea: 1568, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:31:00:461  Respuesta del Core: 00
+Linea: 1569, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:31:16:638 
+Linea: 1570, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:31:17:246  Respuesta del Core: 00
+Linea: 1571, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:32:51:907 
+Linea: 1572, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:32:52:563  Respuesta del Core: 00
+Linea: 1575, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:33:41:391 
+Linea: 1576, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:33:41:921  Respuesta del Core: 00
+Linea: 1581, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:35:49:498 
+Linea: 1582, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:35:50:060  Respuesta del Core: 00
+Linea: 1583, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:36:14:427 
+Linea: 1584, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:36:14:957  Respuesta del Core: 00
+Linea: 1589, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:36:51:805 
+Linea: 1590, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:36:52:304  Respuesta del Core: 00
+Linea: 1591, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:37:07:763 
+Linea: 1592, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:37:08:403  Respuesta del Core: 00
+Linea: 1595, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:37:34:393 
+Linea: 1596, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:37:34:939  Respuesta del Core: 00
+Linea: 1599, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:38:11:833 
+Linea: 1600, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:38:12:301  Respuesta del Core: 00
+Linea: 1603, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:38:48:805 
+Linea: 1604, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:38:49:273  Respuesta del Core: 00
+Linea: 1621, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:41:52:136 
+Linea: 1622, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:41:52:838  Respuesta del Core: 00
+Linea: 1623, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:42:37:330 
+Linea: 1624, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:42:37:844  Respuesta del Core: 00
+Linea: 1627, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:43:22:226 
+Linea: 1628, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:43:22:726  Respuesta del Core: 00
+Linea: 1642, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:46:48:209 
+Linea: 1643, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:46:48:927  Respuesta del Core: 00
+Linea: 1646, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:47:36:195 
+Linea: 1647, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:47:36:788  Respuesta del Core: 00
+Linea: 1648, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:48:50:810 
+Linea: 1649, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:48:51:652  Respuesta del Core: 00
+Linea: 1654, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:49:21:682 
+Linea: 1655, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:49:22:244  Respuesta del Core: 00
+Linea: 1656, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:49:47:547 
+Linea: 1657, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:49:48:343  Respuesta del Core: 00
+Linea: 1684, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:58:28:136 
+Linea: 1685, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:58:28:931  Respuesta del Core: 00
+Linea: 1690, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 15:59:58:382 
+Linea: 1691, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 15:59:59:146  Respuesta del Core: 00
+Linea: 1701, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:00:17:804  Respuesta del Core: 00
+Linea: 1700, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:00:16:759 
+Linea: 1704, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:01:01:328 
+Linea: 1705, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:01:02:123  Respuesta del Core: 00
+Linea: 1710, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:02:58:344 
+Linea: 1711, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:02:59:061  Respuesta del Core: 00
+Linea: 1712, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:03:43:194 
+Linea: 1713, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:03:43:911  Respuesta del Core: 00
+Linea: 1714, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:03:56:423 
+Linea: 1715, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:03:57:203  Respuesta del Core: 00
+Linea: 1722, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:07:08:568 
+Linea: 1723, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:07:09:364  Respuesta del Core: 00
+Linea: 1726, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:07:43:918 
+Linea: 1727, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:07:44:682  Respuesta del Core: 00
+Linea: 1728, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:07:59:299 
+Linea: 1729, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:07:59:923  Respuesta del Core: 00
+Linea: 1730, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:08:17:988 
+Linea: 1731, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:08:18:753  Respuesta del Core: 00
+Linea: 1738, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:09:37:860 
+Linea: 1739, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:09:38:578  Respuesta del Core: 00
+Linea: 1748, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:10:14:458 
+Linea: 1749, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:10:15:254  Respuesta del Core: 00
+Linea: 1752, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:10:46:719 
+Linea: 1753, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:10:47:327  Respuesta del Core: 00
+Linea: 1760, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:12:36:294 
+Linea: 1761, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:12:37:105  Respuesta del Core: 00
+Linea: 1766, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:18:42:192 
+Linea: 1767, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:18:42:972  Respuesta del Core: 00
+Linea: 1768, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:19:24:546 
+Linea: 1769, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:19:24:749  Respuesta del Core: 51
+Linea: 1770, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:19:37:011 
+Linea: 1771, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:19:37:900  Respuesta del Core: 00
+Linea: 1780, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:21:14:714 
+Linea: 1781, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:21:15:587  Respuesta del Core: 00
+Linea: 1786, Codigo: 01, Fecha: 2016/03/11, tipo: 0200, Hora: 16:21:56:459 
+Linea: 1787, Codigo: 01, Fecha: 2016/03/11, tipo: 0210, Hora: 16:21:57:348  Respuesta del Core: 00
