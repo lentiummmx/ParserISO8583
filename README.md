@@ -27,3 +27,9 @@ Parseador de Mensaje ISO8583
 
 ![font samples - dark](https://github.com/alerolon15/ParserISO8583/blob/master/img/resultado.jpg)
 
+<h3>Resguardo</h3>
+
+<p>Una vez que el sercivio entrega la informacion, hace una copia de todo en un archivo llamado resultados.txt.</p>
+<p>Si el archivo ya existia, lo reemplaza por la nueva busqueda, si no existe lo crea.</p>
+
+![font samples - dark](https://github.com/alerolon15/ParserISO8583/blob/master/img/resguardo.jpg)
