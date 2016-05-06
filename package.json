@@ -1,19 +1,21 @@
 {
-  "name": "parsweb",
+  "name": "caden",
   "version": "1.0.0",
-  "description": "Parseo Web desde un texto de log de ISO's",
+  "description": "Sistema de registros Baterias Caden",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/alerolon15/parsweb.git"
-  },
-  "author": "Alejandro Rolon",
+  "author": "Alejandro Rolón",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alerolon15/parsweb/issues"
-  },
-  "homepage": "https://github.com/alerolon15/parsweb#readme"
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.14.2",
+    "client-sessions": "^0.7.0",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.5",
+    "mongoose": "^4.4.14"
+  }
 }

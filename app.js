@@ -1,51 +1,140 @@
-//llamar a las librerias files y readline
-var fs = require('fs');
-var lib = require('readline');
+"use strict";
 
 
-//armar interface para la pregunta del codigo
-var interface1= lib.createInterface({
-	input: process.stdin,
-	output: process.stdout
+var express = require("express");
+var expressHandlebars = require("express-handlebars");
+var app = express();
+var hbs = require("handlebars");
+var async = require("async");
+var bodyParser = require('body-parser');
+var session = require("client-sessions");
+var multipart = require('connect-multiparty');
+
+var mongoose = require("mongoose");
+var hbs = require("handlebars");mongoose.connect('mongodb://localhost/isos')
+var db = mongoose.connection;
+
+
+app.use(bodyParser());
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({extended:true}));
+app.use(multipart());
+//app.use(session({secret:"h17hd87ahhd917793dgasdg6",resave:false,saveUninitialized:true}));
+app.use(session({
+	cookieName: 'session',
+	secret: 'h17hd87ahhd917793dgasdg6',
+	duration: 30 * 60 * 1000,
+	activeDuration: 5 * 60 * 1000
+}));
+app.use('/public', express.static('public'));
+app.set('view engine','handlebars');
+app.engine('html',expressHandlebars());
+
+//schema
+
+var isoSchema = {
+  Linea: { type: String },
+  Codigo: { type: String },
+  Fecha: { type: String },
+  Hora: { type: String },
+  codRes: { type: String },
+  Tipo: { type: String },
+  codSec: { type: String }
+};
+
+var Iso = mongoose.model("Iso", isoSchema);
+
+//routes
+app.get('/admin',function(req,res){
+
+		var options = {
+        layout:"dashboard.html",
+        hide: "hide"
+    };
+    res.render('admin.html',options);
 });
-//inicializo el archivo resultados.txt
-fs.writeFile('resultados.txt',"", (err) => {
-  	if (err) throw err;
-	});
-//ingresar el codigo que se busca 
-interface1.question("Ingresa el codigo que estas buscando : ", function(respuesta){
+
+app.get('/tablaautos',function(req,res){
+  Iso.find({},function(err,docus){
+    if(err){console.log(err)}
+
+		var options = {
+        layout:"dashboard.html",
+        msjIso: docus
+
+    };
+    res.render('tablaautos.html',options);
+});
+});
+
+app.post('/upload', function(req, res) {
+   //El modulo 'fs' (File System) que provee Nodejs nos permite manejar los archivos
+   var fs = require('fs')
+
+   var path = req.files.archivo.path
+   var newPath = 'ISO.txt'
+
+   var is = fs.createReadStream(path)
+   var os = fs.createWriteStream(newPath)
+
+   is.pipe(os)
+
+   is.on('end', function() {
+      //eliminamos el archivo temporal
+      fs.unlinkSync(path)
+   res.redirect('/upload1')
+
+   });
+
+});
+
 //leer el archivo con los mensajes ISO8583
-var array = fs.readFileSync('ISO.txt').toString().split("\n");
+app.get('/upload1', function(req, res) {
+     var fs = require('fs')
 var count = 0; //contador
 
-console.log("resultados de " + respuesta + "!");
-//recorrer todos los mensajes por separado y separar el codigo de transaccion
-for (var i = 0; i < array.length; i++) {
-	var pos = array[i].indexOf("ISO") + 48,							//position del primer parametro del codigo de transaccion
-		pos2 = array[i].indexOf("ISO") + 12,						//position al primer parametro de la respuesta 0200 o 0210
-    	codTrans = array[i].charAt(pos) + array[i].charAt(pos+1),	//tomar codigo de transaccion
-    	fecha = array[i].slice(0,10),								//tomar fecha 
-	    resp = array[i].slice(pos2, pos2+4),						//tomar respuesta
-	    Hora = array[i].slice(11,24),								//tomar hora
-	    codRes = array[i].slice(189, 191);									//codigo de respuesta del core
-	if(pos<48){codTrans = "Ec"; resp = "0810";}						//Detectar Echo y cambia el codigo a "Ec"
+  Iso.remove({},function(err){
+    if(err){console.log(err)}
+  });
 
-	//mostrar datos en pantalla
-    if(codTrans == respuesta){
-        var data = "Linea: " + (i+1) + ", Codigo: " + codTrans + ", Fecha: " + fecha + ", tipo: " + resp + ", Hora: " + Hora;
-      	console.log(data);
-    if(resp == "0210"){
-    	var respondio = "Respuesta del Core: " + codRes;
-    	data = data + " " + respondio;
-    	console.log(respondio);
-    }
-    	fs.appendFile('resultados.txt', data+"\n", (err) => {
-  	if (err) throw err;
-	});
-       	count++;													//en cada acierto, agregarlo al contador
-    };
-};
-	console.log("Se encontraron " + count + " resultados!")
-  	console.log("Todo los resultados fueron guardados en el archivo resultados.txt");
-	interface1.close();
+fs.readFileSync('ISO.txt').toString().split('\n').forEach(function (line) { 
+
+
+   var pos = line.indexOf("ISO") + 48,                   //position del primer parametro del codigo de transaccion
+       pos2 = line.indexOf("ISO") + 12,                //position al primer parametro de la respuesta 0200 o 0210
+       codTrans = line.slice(pos, pos+2),        //tomar codigo de transaccion
+       fecha = line.slice(0,10),                       //tomar fecha 
+       resp = line.slice(pos2, pos2+4),                  //tomar respuesta
+       hora = line.slice(11,24),                      //tomar hora
+       codResp = line.slice(189, 191),               //codigo de respuesta del core
+       codSecu = line.slice(pos+104, pos+116);
+       count++;
+
+
+    if(pos<48){codTrans = "Echo"; resp = "0810"; codResp = "00"};            //Detectar Echo y cambia el codigo a "Ec"
+    if(resp == "0200" || resp == "0205" || resp == "0220" || resp == "0221" || resp == "0420" || resp == "0421"){codResp = "--"};
+   //mostrar datos en pantalla
+    
+    var data = {
+    Linea: count,
+    Codigo: codTrans,
+    Fecha: fecha,
+    Hora: hora,
+    codRes: codResp,
+    Tipo: resp,
+    codSec: codSecu
+  };
+   var iso = new Iso(data);
+
+  iso.save(function(err){
+    console.log(err)
+  });
+});
+
+   res.redirect('/tablaautos')
+});
+
+
+app.listen(8080,function(){
+    console.log("El Servidor esta listo");
 });

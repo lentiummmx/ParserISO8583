@@ -1,0 +1,33 @@
+
+
+<div class="box col-xs-12 table-responsive" style="margin-top:5px; padding-bottom:0px">
+<table id="example" class="display col-xs-12" cellspacing="0" width="100%">
+
+
+        <thead>
+            <tr>
+                <th>Linea</th>
+                <th>Fecha</th>
+                <th>Hora</th>
+                <th>Cod.Tran</th>
+                <th>Tipo</th>
+                <th>Secuencia</th>
+                <th>Resp.Core</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#each msjIso}}
+            <tr>
+                <td id="{{@index}}">{{this.Linea}}</td>
+                <td>{{this.Fecha}}</td>
+                <td>{{this.Hora}}</td>
+                <td>{{this.Codigo}}</td>
+                <td>{{this.Tipo}}</td>
+                <td>{{this.codSec}}</td>
+                <td>{{this.codRes}}</td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+</div>
+
