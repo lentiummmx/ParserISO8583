@@ -111,13 +111,13 @@ fs.readFileSync('ISO.txt').toString().split('\n').forEach(function (line) {
        count++;
 
     if(pos<48){codTrans = "Echo"; resp = "0810"; codResp = "00"};            //Detectar Echo y cambia el codigo a "Ec"
-    if(resp == "0200" || resp == "0205" || resp == "0220" || resp == "0221" || resp == "0420" || resp == "0421"){codResp = "--"};
-    if(resp == "0205"){
-      codSecu = line.slice(pos+75, pos+87);
-    };
-    if(resp == "0215"){
-      codSecu = line.slice(pos+79, pos+91);
-    };
+    if(resp == "0200" || resp == "0220" ){codResp = "--"};
+//    if(resp == "0205"){
+//      codSecu = line.slice(pos+75, pos+87);
+//   };
+//    if(resp == "0215"){
+//      codSecu = line.slice(pos+79, pos+91);
+//    };
    //mostrar datos en pantalla
     
     var data = {
