@@ -4,7 +4,7 @@ Parseador de Mensaje ISO8583
 <h3>Pagina de inicio</h3>
 
 <p>En la pagina de inicio, con ruta <code>"8080/"</code>.</p>
-<p>Seleccionamos la opcion de Explorar para buscar la ruta de nuestro archivo LOG (en formato TRK, TXT, etc.)</p>
+<p>Seleccionamos la opcion de "Seleccionar Archivo" para buscar la ruta de nuestro archivo LOG (en formato TRK, TXT, etc.)</p>
 
 ![font samples - dark](https://github.com/alerolon15/ParserISO8583/blob/master/img/carpetaraiz.jpg)
 
