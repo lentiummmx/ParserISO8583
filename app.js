@@ -45,7 +45,7 @@ var isoSchema = {
 var Iso = mongoose.model("Iso", isoSchema);
 
 //routes
-app.get('/admin',function(req,res){
+app.get('/',function(req,res){
 
 		var options = {
         layout:"dashboard.html",
