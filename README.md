@@ -8,7 +8,7 @@ Parseador de Mensaje ISO8583
 
 ![font samples - dark](https://github.com/alerolon15/ParserISO8583/blob/master/img/carpetaraiz.jpg)
 
-<p>Seleccionamos nuestro Archivo LOG, dentro de nuestra PC.</p>
+<p>Seleccionamos nuestro Archivo LOG, dentro de nuestra PC y despues le damos a "SUBIR".</p>
 
 ![font samples - dark](https://github.com/alerolon15/ParserISO8583/blob/master/img/codigo.jpg)
 
