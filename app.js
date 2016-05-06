@@ -135,6 +135,6 @@ fs.readFileSync('ISO.txt').toString().split('\n').forEach(function (line) {
 });
 
 
-app.listen(8080,function(){
+app.listen(80,function(){
     console.log("El Servidor esta listo");
 });
